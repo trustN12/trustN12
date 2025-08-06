@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Frontend Dev<br>👯 I’m looking to collaborate on React project<br>🌱 I’m currently learning NextJs<br>💬 Ask me about my skills<br>⚡ lazy coder
+🔭 I’m currently working as Fullstack/Mernstack Developer<br>👯 I’m looking to collaborate on React project<br>🌱 I’m currently learning NextJs<br>💬 Ask me about my skills<br>⚡ lazy coder
 
 
 ## 🌐 Socials:
